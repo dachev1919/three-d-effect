@@ -5,9 +5,9 @@ import { ROUTES } from "../utils/constants";
 const Routers = () => {
   return (
     <Routes>
-      <Route path='/' element={<Navigate to={ ROUTES.HOME } />} />
-      <Route path='/*' element={<Navigate to={ ROUTES.HOME } />} />
-      <Route path={ ROUTES.HOME } element={<Home />} />
+       <Route path='/' element={<Navigate to={ ROUTES.HOME } />} />
+       <Route path='/*' element={<Navigate to={ ROUTES.HOME } />} />
+       <Route path={ ROUTES.HOME } element={<Home />} />
     </Routes>
   )
 }
