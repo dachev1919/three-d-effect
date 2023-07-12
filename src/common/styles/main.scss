@@ -1,12 +1,26 @@
 @font-face {
-  font-family: 'Kamerik';
+  font-family: 'Kamerik-3d';
   src: url('../assets/fonts/kamerik205-heavy.woff2');
+  font-display: swap;
+  font-weight: 900;
 }
 @font-face {
-  font-family: 'Merriweather';
+  font-family: 'Merriweather-italic-3d';
   src: url('../assets/fonts/merriweather-regular-italic.woff2');
+  font-display: swap;
+  font-weight: 900;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+
 }
 
 body {
-  font-family: 'Kamerik', sans-serif;
+  background: black;
 }

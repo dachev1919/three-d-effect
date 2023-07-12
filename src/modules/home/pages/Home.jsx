@@ -1,10 +1,16 @@
-import React from "react";
+import styles from './Home.module.scss';
+import logo from '../../../common/assets/images/logo.svg';
+import Layers from "../components/layers/Layers";
 
 const Home = () => {
   return (
-    <div>
+    <>
+      <div className={styles.logo} style={{backgroundImage: `url(${logo})`}}></div>
 
-    </div>
+      <Layers />
+
+      <div style={{height: '100vh'}}/>
+    </>
   );
 };
 
