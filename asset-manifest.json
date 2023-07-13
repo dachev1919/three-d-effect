@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/three-d-effect/static/css/main.013ec849.css",
+    "main.js": "/three-d-effect/static/js/main.fc1ba7e0.js",
+    "static/media/layer-2.png": "/three-d-effect/static/media/layer-2.9ca0471e7c9efc1f8d27.png",
+    "static/media/layer-1.jpg": "/three-d-effect/static/media/layer-1.246285c27090fae95e32.jpg",
+    "static/media/layer-6.png": "/three-d-effect/static/media/layer-6.35edcb87611e547f6ec4.png",
+    "static/media/logo.svg": "/three-d-effect/static/media/logo.b67866ed82280b88752cd4cd881e42da.svg",
+    "static/media/layer-5.png": "/three-d-effect/static/media/layer-5.eac74c2031bd310a7782.png",
+    "static/media/merriweather-regular-italic.woff2": "/three-d-effect/static/media/merriweather-regular-italic.a1cfdc5b5250b7c4b481.woff2",
+    "static/media/kamerik205-heavy.woff2": "/three-d-effect/static/media/kamerik205-heavy.70dae64327fe4c4ee43d.woff2",
+    "index.html": "/three-d-effect/index.html",
+    "main.013ec849.css.map": "/three-d-effect/static/css/main.013ec849.css.map",
+    "main.fc1ba7e0.js.map": "/three-d-effect/static/js/main.fc1ba7e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.013ec849.css",
+    "static/js/main.fc1ba7e0.js"
+  ]
+}
